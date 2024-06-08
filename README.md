@@ -16,10 +16,12 @@
 [![Unity](https://img.shields.io/badge/-Unity-black?style=flat&logo=unity&logoColor=white)]()
 [![Unreal Engine](https://img.shields.io/badge/-Unreal_Engine-313131?style=flat&logo=unreal-engine&logoColor=white)]()
 
+<!--
 <h3>📚 Studying 📚</h3>
 
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)]()
 [![Vue.js](https://img.shields.io/badge/-Vue.js-41B883?style=flat&logo=vue-dot-js&logoColor=white)]()
+-->
 
 <h3>🛠 Tools 🛠</h3>
 
